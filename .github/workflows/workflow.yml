@@ -32,5 +32,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: 
-            ghcr.io/rajeshgoyalg/node-web-app:latest
-            ghcr.io/rajeshgoyalg/node-web-app:1.0.0
+            ghcr.io/node-web-app:latest
+            ghcr.io/node-web-app:1.0.0
